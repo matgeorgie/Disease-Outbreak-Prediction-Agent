@@ -4,6 +4,14 @@ An AI-powered interactive web application that visualizes, analyzes, and predict
 
 ---
 
+## 🔗 Live Demo
+
+👉 **[Access the App Here](https://disease-agent.streamlit.app/)**
+
+No installation required — the app is live and ready to use.
+
+---
+
 ## 🔑 Key Features
 
 ### 1. 📊 Interactive Dashboard
@@ -57,12 +65,3 @@ An AI-powered interactive web application that visualizes, analyzes, and predict
 - **Data Handling:** Pandas, NumPy
 
 ---
-
-## 🚀 How to Run the App
-
-### 🖥️ Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
